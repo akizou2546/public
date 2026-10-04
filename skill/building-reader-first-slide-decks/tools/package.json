@@ -1,0 +1,9 @@
+{
+  "name": "devcontainer-owasp-deck",
+  "private": true,
+  "dependencies": {
+    "@marp-team/marp-cli": "4.5.1",
+    "@material-symbols/svg-400": "0.47.6",
+    "@expo-google-fonts/noto-sans-jp": "0.4.3"
+  }
+}
